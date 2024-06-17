@@ -102,7 +102,7 @@ neg_cross_section = (
     .line(neg_cross_section_long_len+width,0)
     .line(0, depth*3)
     .line(-neg_cross_section_long_len-width, 0)
-    .line(0, -depth)360mm in feet
+    .line(0, -depth)
     .close()
 )
 
